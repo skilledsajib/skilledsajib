@@ -1,8 +1,6 @@
 ![Web developer](https://media.licdn.com/dms/image/D4D16AQEbVMXYQIfHbA/profile-displaybackgroundimage-shrink_350_1400/0/1680722441721?e=1686182400&v=beta&t=Gh-qEIzMa3PgMzMvnoQJjpMAbgpYzpgj-9Y0c6nex6w)
 ### Hi there 👋, I Am Skilled Sajib
 #### Web developer
-![Web developer](https://media.licdn.com/dms/image/D4D16AQEbVMXYQIfHbA/profile-displaybackgroundimage-shrink_350_1400/0/1680722441721?e=1686182400&v=beta&t=Gh-qEIzMa3PgMzMvnoQJjpMAbgpYzpgj-9Y0c6nex6w)
-
 I am Skilled Sajib. Web Developer & WordPress expert. 
 
 Skills: WORDPRESS/E-COMMERCE/REACT / JS / HTML / CSS
